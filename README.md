@@ -1,5 +1,4 @@
-# mad_exam
-
+# Event Check In Application
 A new Flutter project.
 
 ## Getting Started
